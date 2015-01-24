@@ -10,7 +10,7 @@ Linux 64-bit (tested on Centos 6.5)
 (see Makefile)
 
 #####TODO:
-- line-search, hardworking variants to be implemented.
+- line-search to be implemented.
 - file-io should be moved to common file
 - more error checking
 
@@ -18,7 +18,7 @@ Linux 64-bit (tested on Centos 6.5)
 
 #####For more information / citation, refer to: 
 
-A. Bellet*, Y. Liang*, A. Bagheri Garakani*, M.-F. Balcan and F. Sha. (*: equal contribution)
+A. Bellet\*, Y. Liang\*, A. Bagheri Garakani\*, M.-F. Balcan and F. Sha. (\*: equal contribution)
 A Distributed Frank-Wolfe Algorithm for Communication-Efficient Sparse Learning.
 SIAM International Conference on Data Mining (SDM), 2015, to appear.
 
