@@ -18,8 +18,8 @@ Linux 64-bit (tested on Centos 6.5)
 
 #####For more information / citation, refer to: 
 
-A. Bellet\*, Y. Liang\*, A. Bagheri Garakani\*, M.-F. Balcan and F. Sha. (\*: equal contribution)
-A Distributed Frank-Wolfe Algorithm for Communication-Efficient Sparse Learning.
-SIAM International Conference on Data Mining (SDM), 2015, to appear.
+A. Bellet\*, Y. Liang\*, A. Bagheri Garakani\*, M.-F. Balcan and F. Sha. (\*: equal contribution)  
+A Distributed Frank-Wolfe Algorithm for Communication-Efficient Sparse Learning  
+SIAM International Conference on Data Mining (SDM), 2015, to appear  
 
 http://perso.telecom-paristech.fr/~abellet/papers/distributed_frank_wolfe.html
