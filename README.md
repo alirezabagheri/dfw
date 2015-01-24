@@ -1,6 +1,4 @@
 #Distributed Frank Wolfe C++/MPI Implementation (v 0.2)
-#####Prepared by: 
-Alireza Bagheri Garakani (me@alirezabagheri.com), 1/23/2015
 
 #####Platform: 
 Linux 64-bit (tested on Centos 6.5)
@@ -13,11 +11,10 @@ Linux 64-bit (tested on Centos 6.5)
 
 #####TODO:
 - line-search, hardworking variants to be implemented.
-- main() contains "hard-coded"/constant definitions 
 - file-io should be moved to common file
+- more error checking
 
 -----------------
-
 
 #####For more information / citation, refer to: 
 
