@@ -17,7 +17,7 @@
 	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
-	// Input data is in sparse format (see matlab function 'splitAtomMatrix.m').
+	// Input data is in sparse format (see matlab function 'prepare_data.m').
 	// NOTE: first ROW of input is label.
 
 */
