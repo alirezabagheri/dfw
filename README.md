@@ -12,7 +12,9 @@ Linux 64-bit (tested on Centos 6.5)
 #####TODO:
 - line-search to be implemented.
 - file-io should be moved to common file
-- more error checking
+- better error checking on program arguments and input data.
+- improve makefile definition
+- change data format from text to binary (for space efficiency)
 
 -----------------
 

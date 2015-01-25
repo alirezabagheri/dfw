@@ -1,4 +1,4 @@
-function splitAtomMatrix(datasetname, y, A, splits, mode, mat_type, distribution, onelarge_factor)
+function prepare_data(datasetname, y, A, splits, mode, mat_type, distribution, onelarge_factor)
 %SPITATOMMATRIX Export data from matrix format for dFW C++/MPI impl.
 %   AUTHOR: Alireza Bagheri Garakani (me@alirezabagheri.com), 11/4/2014
 %
